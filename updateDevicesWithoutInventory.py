@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 ####################################################################################################
 #
-# Copyright (c) 2012, JAMF Software, LLC.  All rights reserved.
+# Copyright (c) 2014, JAMF Software, LLC.  All rights reserved.
 #
 #       Redistribution and use in source and binary forms, with or without
 #       modification, are permitted provided that the following conditions are met:
@@ -37,10 +37,10 @@
 # ABOUT THIS PROGRAM
 #
 # NAME
-#    updateDeviceInventory.py -- Update Mobile Device Inventory
+#    updateDeviceWithoutInventory.py -- Update Mobile Device Inventory
 #
 # SYNOPSIS
-#    /usr/bin/python updateDeviceInventory.py
+#    /usr/bin/python updateDeviceWithoutInventory.py
 #
 # DESCRIPTION
 #    This script was designed to update mobile device inventory in a JSS for those that do not have
